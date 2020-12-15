@@ -1,5 +1,13 @@
 body{
-    color: rgb(231, 101, 15);
+    color: rgb(34, 33, 32);
     text-align: center;
     font-family: "Arial";
+}
+#header{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgba(148, 163, 230, 0.867);
+    align-content: center;
+    margin: auto;
 }
